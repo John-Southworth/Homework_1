@@ -1,0 +1,331 @@
+/* CSS for index */
+/* Created By John Southworth */
+
+
+img.i1 {
+
+height: 125px;
+display:inline-block;
+margin:auto;
+
+}
+
+div.head1 {
+
+display:block;
+margin: auto;
+margin-bottom: -65px;
+
+}
+
+div.head2 {
+
+font-family: 'Georgia', serif;
+font-style: italic;
+font-size: 22pt;
+font-weight: lighter;
+text-shadow: -4px 6px 5px #fdb5e8, -1px 4px 5px #ffff80;
+color: #A30576;
+text-align: center;
+display: inline-block;
+vertical-align: middle;
+padding-bottom: 110px;
+margin:auto;
+
+}
+
+div.menu1 {
+
+color: #EEEC99;
+background-color: #28336B;
+display: inline-block;
+height: 1.7em;
+width: 12%;
+text-align: center;
+vertical-align: middle;
+border-left: 2px solid black;
+padding-top: 7px;
+
+}
+
+div.menu2 {
+
+color: #FFFFFF;
+background-color: #7D83A5;
+display: inline-block;
+height: 1.7em;
+text-align: center;
+vertical-align: middle;
+width: 12%;
+border-left: 2px solid black;
+padding-top: 7px;
+
+}
+
+div.menu3 {
+
+background-image: linear-gradient(#969BB6,#60647F);
+display: inline-block;
+height: 1.7em;
+width: 26.7%;
+text-align: center;
+vertical-align: middle;
+border-left: 1px solid black;
+padding-top: 7px;
+
+}
+
+div.row1 {
+
+background-image: linear-gradient(#C075B0,#EAB8C3);
+float:left;
+width: 30%;
+height: 100%;
+
+}
+
+div.a1 {
+
+font-family: 'Helvetica', sans-serif;
+letter-spacing: 3px;
+padding-top: 12px;
+padding-left: 5px;
+
+}
+
+div.a2 { 
+
+font-size: 15px;
+padding-top: 20px;
+padding-left: 5px;
+padding-bottom: 20px;
+line-height: 24px;
+
+}
+
+div.row2 {
+
+border: 2px dotted #8F3638;
+height: 340px;
+margin-bottom: 20px;
+
+}
+
+div.a3 {
+
+font-family: 'Helvetica', sans-serif;
+font-size: 15px;
+font-weight: bold;
+text-decoration: overline;
+padding-top: 12px;
+padding-left: 5px;
+
+
+}
+
+img.i2{
+
+border: 4px solid #DB1DB2;
+height: 120px;
+
+}
+
+div.a4{
+
+padding-top: 12px;
+padding-left: 5px;
+
+}
+
+div.row3{
+
+border: 2px dotted #8F3638;
+height: 340px;
+
+}
+
+div.box1{
+
+background-color: #EAB8C3;
+width: 30%;
+float:left;
+
+}
+
+div.row4 {
+
+background-image: linear-gradient(#ECDCB8,#FFFfff);
+float:left;
+width: 70%;
+height: 100%;
+
+}
+
+div.b1 {
+
+font-family: 'Helvetica', sans-serif;
+letter-spacing: 3px;
+padding-top: 12px;
+padding-left: 80px;
+    
+}
+    
+div.b2 { 
+    
+font-size: 15px;
+padding-top: 20px;
+padding-left: 80px;
+padding-bottom: 20px;
+line-height: 24px;
+    
+}
+    
+div.par1{
+
+height: 100px;
+
+}
+
+div.box2{
+
+float:left;
+
+}
+
+div.b3 {
+
+font-family: 'Helvetica', sans-serif;
+letter-spacing: 3px;
+padding-top: 30px;
+padding-left: 80px;
+        
+}
+
+mark.fade{
+
+color: #808080;
+background: none;
+
+}
+
+div.b4{
+
+font-family: 'Helvetica', sans-serif;
+font-size: 15px;
+font-weight: bold;
+text-decoration: overline;
+padding-top: 12px;
+padding-left: 80px;
+
+}
+
+div.b5 {
+
+padding-top: 20px;
+padding-left: 40%;
+
+}
+
+img.i3{
+
+height: 300px;
+
+}
+
+div.box3{
+
+border-radius: 25px;
+background-color: #ddddff;
+height: 140px;
+width: 210px;
+margin-left: 80px;
+float:left;
+
+}
+
+mark.link{
+
+color: #1F5DA8;
+text-decoration: underline;
+text-decoration-color: #1F5DA8;
+background: none;
+
+}
+
+div.b6{
+    
+font-size: 15px;
+padding-left:10%;
+
+}
+
+div.b7 {
+
+font-family: 'Helvetica', sans-serif;
+font-size: 15px;
+font-weight: bold;
+text-decoration: overline;
+padding-left: 10%;
+padding-top: 10%;
+padding-bottom: 10%;
+
+
+}
+
+div.box4{
+
+float:left;
+margin-top:45px;
+
+}
+
+div.b8 {
+
+    
+font-size: 15px;
+padding-top: 20px;
+padding-left: 12px;
+padding-bottom: 20px;
+line-height: 24px;
+
+}
+
+div.foo1{
+
+background-color: #F4FAFA;
+
+}
+
+mark.link2{
+
+    color: #1F5DA8;
+    text-decoration: underline;
+    text-decoration-color: #1F5DA8;
+    background: none;
+    font-style: italic;
+    
+}
+
+img.i4 {
+
+height:120px;
+width: 70%;
+float:right;
+margin-top: 40px;
+
+}
+
+div.foo3 {
+
+font-size: 15px;
+padding-left: 5px;
+padding-bottom: 6px;
+
+}
+
+div.page{
+
+width: 1000px;
+height: 1150px;
+
+}
